@@ -77,7 +77,6 @@ https://github.com/Dilluthecoder/musharwa-village
 ## 📫 Connect With Me
 
 - GitHub: [@Dilluthecoder](https://github.com/Dilluthecoder)
-
----
+- LinkedIn: [Dillu Kumar Chaubey](https://www.linkedin.com/in/dillu-kumar-chaubey-b829062b1/)
 
 ⭐ **Thanks for visiting my profile!**
