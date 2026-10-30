@@ -1,82 +1,99 @@
-# 👋 Hi, I'm Dillu Kumar Chaubey
+# Hi, I'm Dillu Kumar Chaubey 👋
 
-💻 **CSE-IoT Student | Aspiring Full-Stack Developer**
+### Aspiring Software Engineer | C++ | Python | Web Development | AI & ML
 
-I am a Computer Science student interested in **Web Development, MERN Stack, and Problem Solving**.  
-I enjoy building practical projects and continuously improving my programming skills.
+I'm a Computer Science and Engineering (IoT) undergraduate at Government Engineering College Madhubani, passionate about software development, problem-solving, and building practical projects.
 
----
-
-## 🚀 Featured Project
-
-### 🏡 Musharwa Village Community Portal
-
-A full-stack community portal built using the **MERN Stack** for providing village information, notices, gallery updates, and community feedback.
-
-🔗 **Live Website:**  
-https://musharwa-village-frontend.onrender.com
-
-🔗 **GitHub Repository:**  
-https://github.com/Dilluthecoder/musharwa-village
-
-### Key Features
-- 📢 Dynamic Notice Board
-- 🖼️ Village Gallery
-- 💬 Community Feedback
-- 🔐 Admin Dashboard
-- 🗄️ MongoDB Database
-- 🌐 Live Deployment
+I enjoy exploring new technologies, improving my programming skills, and turning ideas into useful applications.
 
 ---
 
-## 🛠️ Skills
+## 👨‍💻 About Me
 
-**Languages**
-- C
-- C++
-- JavaScript
-- Python
+- 🎓 B.Tech in Computer Science and Engineering (IoT)
+- 🏫 Government Engineering College Madhubani
+- 📅 Batch: 2023–2027
+- 💡 Interested in Software Engineering and Full-Stack Development
+- 🧠 Practicing Data Structures and Algorithms
+- 🌱 Currently learning AI & Machine Learning
+- 🚀 Building practical projects and exploring new technologies
+- 🎯 Goal: To become a skilled Software Engineer
+
+---
+
+## 🛠️ Technical Skills
+
+**Programming Languages**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,js" />
+</p>
 
 **Web Development**
-- HTML
-- CSS
-- React.js
-- Node.js
-- Express.js
-- MongoDB
-- REST API
 
-**Tools & Technologies**
-- Git
-- GitHub
-- VS Code
-- Vite
-- MongoDB Atlas
-- Render
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,ts,nodejs,express,mongodb" />
+</p>
+
+**Tools & Platforms**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vite" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 1. Dillu 3D Developer Portfolio
+
+My personal developer portfolio showcasing my introduction, technical skills, projects, and development journey.
+
+- 🌐 [Live Portfolio](https://dillu-chaubey-portfolio.onrender.com)
+- 💻 [GitHub Repository](https://github.com/Dilluthecoder/dillu-3d-portfolio)
+
+### 2. Musharwa Village Community Portal
+
+A web development project focused on creating a digital platform for village information and community updates.
+
+- 🌐 [Live Website](https://musharwa-village-frontend.onrender.com)
+- 💻 [GitHub Repository](https://github.com/Dilluthecoder/musharwa-village)
+
+---
+
+## 🎓 Education
+
+**Bachelor of Technology (B.Tech)**
+
+- Branch: Computer Science and Engineering – Internet of Things (CSE-IoT)
+- Institution: Government Engineering College Madhubani
+- Batch: 2023–2027
 
 ---
 
 ## 📚 Currently Learning
 
+- Data Structures and Algorithms
+- Advanced C++ and Python
 - MERN Stack Development
-- Data Structures & Algorithms
+- Artificial Intelligence & Machine Learning
 - Backend Development
-- Building Real-World Projects
 
 ---
 
-## 🎯 Goals
+## 🤝 Connect With Me
 
-- Become a skilled Full-Stack Developer
-- Build scalable real-world applications
-- Improve problem-solving and DSA skills
-- Contribute to open-source projects
+- 🌐 **Portfolio:** [Visit Website](https://dillu-chaubey-portfolio.onrender.com)
+- 💼 **LinkedIn:** [Dillu Kumar Chaubey](https://www.linkedin.com/in/dillu-kumar-chaubey-b829062b1/)
+- 🐙 **GitHub:** [@Dilluthecoder](https://github.com/Dilluthecoder)
+- 📸 **Instagram:** [@dilluchaubey](https://www.instagram.com/dilluchaubey/)
 
 ---
 
-## 📫 Connect With Me
+<p align="center">
+  <b>"Building logic, exploring intelligence, creating possibilities."</b>
+</p>
 
-- GitHub: [@Dilluthecoder](https://github.com/Dilluthecoder)
-- LinkedIn: [Dillu Kumar Chaubey](https://www.linkedin.com/in/dillu-kumar-chaubey-b829062b1/)
-
-⭐ **Thanks for visiting my profile!**
+<p align="center">
+  Thanks for visiting my GitHub profile! ⭐
+</p>
